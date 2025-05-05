@@ -32,7 +32,7 @@ The model is deployed to Heroku and includes:
 - A RESTful API endpoint that accepts POST requests and returns predictions.
 
 **Live App Link:** https://iris-predictor-2025-5e5668f3f89b.herokuapp.com/
-**GitHub Repo:**
+**GitHub Repo:** https://github.com/MelCyn/Model_deployment
 
 ## 📄 Report
 
